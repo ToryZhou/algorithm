@@ -1,0 +1,15 @@
+@startuml
+
+title The graph for test
+
+(A) - (B) :6
+(A) - (C) :3
+(B) -- (C) :2
+(B) - (D) :5
+(C) - (D) :3
+(C) - (E) :4
+(D) -- (E) :5
+(D) - (F) :3
+(E) - (F) :5
+
+@enduml
