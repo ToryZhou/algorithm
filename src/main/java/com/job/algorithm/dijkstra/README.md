@@ -5,4 +5,4 @@
 
 测试数据对应的图
 
-![Test graph](https://github.com/ToryZhou/algorithm/raw/master/src/main/java/com/job/algorithm/dijkstra/UseCase.png.png)
+![Test graph](https://github.com/ToryZhou/algorithm/raw/master/src/main/java/com/job/algorithm/dijkstra/UseCase.png)
