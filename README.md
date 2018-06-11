@@ -8,11 +8,16 @@ apache 顶级开源项目也就几千到一万颗星。而中国的一个教学�
 [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome/)
 
 
-贪心算法
+贪心算法(Greedy)
 
-回溯算法
+回溯算法(Backtrack)
 
-二叉树
+二叉树(Binary tree)
 
 迪杰斯特拉算法（Dijkstra算法）
-    
+
+穷举算法(Exhaustive method)
+
+分治算法(Divide and conquer)
+
+动态规划(Dynamic programming)
