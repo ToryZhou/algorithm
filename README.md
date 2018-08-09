@@ -21,3 +21,7 @@ apache 顶级开源项目也就几千到一万颗星。而中国的一个教学�
 分治算法(Divide and conquer)
 
 动态规划(Dynamic programming)
+
+Bloom filter
+
+Hyperloglog
