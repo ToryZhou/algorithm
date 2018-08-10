@@ -9,6 +9,7 @@ public class HyperLogLog {
     public void testSimpleUse(){
         final int seed = 123456;
         HashFunction hash = Hashing.murmur3_128(seed);
+
         // data on which to calculate distinct count
         final Integer[] data = new Integer[]{1, 1, 2, 3, 4, 5, 6, 6,
                 6, 7, 7, 7, 7, 8, 10};
