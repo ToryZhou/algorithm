@@ -1,5 +1,7 @@
 package com.job.algorithm.hyperloglog;
 
+import com.google.common.hash.HashFunction;
+import com.google.common.hash.Hashing;
 import net.agkn.hll.HLL;
 import org.junit.Test;
 
@@ -8,6 +10,7 @@ public class HyperLogLog {
     @Test
     public void testSimpleUse(){
         final int seed = 123456;
+
         HashFunction hash = Hashing.murmur3_128(seed);
 
         // data on which to calculate distinct count
